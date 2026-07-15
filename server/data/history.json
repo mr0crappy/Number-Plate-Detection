@@ -1,0 +1,627 @@
+[
+  {
+    "id": "91423aaf-4b9e-4b19-b0d0-8a3cf52f2545",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "KL07CP7235",
+    "detectedPlate": "DL07CP7235",
+    "isValid": true,
+    "confidence": 60,
+    "state": {
+      "code": "DL",
+      "name": "Delhi",
+      "found": true
+    },
+    "rto": {
+      "code": "07",
+      "district": 7,
+      "description": "Delhi Janakpuri"
+    },
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T21:31:45.224Z"
+  },
+  {
+    "id": "24158b9d-1628-4c3b-ac8c-75c55196aa8d",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HH100V3465",
+    "detectedPlate": "MH10OV3465",
+    "isValid": true,
+    "confidence": 0,
+    "state": {
+      "code": "MH",
+      "name": "Maharashtra",
+      "found": true
+    },
+    "rto": {
+      "code": "10",
+      "district": 10,
+      "description": "Nashik"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T21:17:54.208Z"
+  },
+  {
+    "id": "b6491655-38cc-4e6f-9687-fbeb9e0e4629",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HH100V3465",
+    "detectedPlate": "MH10OV3465",
+    "isValid": true,
+    "confidence": 0,
+    "state": {
+      "code": "MH",
+      "name": "Maharashtra",
+      "found": true
+    },
+    "rto": {
+      "code": "10",
+      "district": 10,
+      "description": "Nashik"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T21:04:47.360Z"
+  },
+  {
+    "id": "47c54b54-f041-4a62-94fa-6a4aeea1085d",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "KL07CP7235",
+    "detectedPlate": "KL07CP7235",
+    "isValid": true,
+    "confidence": 60,
+    "state": {
+      "code": "KL",
+      "name": "Kerala",
+      "found": true
+    },
+    "rto": {
+      "code": "07",
+      "district": 7,
+      "description": "District 7"
+    },
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T21:00:26.816Z"
+  },
+  {
+    "id": "eb13cf35-a7a2-4b96-a93c-5d6626ebc7de",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "ABOO AB\n1234",
+    "detectedPlate": "AR00AB1234",
+    "isValid": true,
+    "confidence": 63,
+    "state": {
+      "code": "AR",
+      "name": "Arunachal Pradesh",
+      "found": true
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:59:52.031Z"
+  },
+  {
+    "id": "fefeda50-0040-415b-a6bb-98183934b0ad",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HH100V3465",
+    "detectedPlate": "MH10OV3465",
+    "isValid": true,
+    "confidence": 0,
+    "state": {
+      "code": "MH",
+      "name": "Maharashtra",
+      "found": true
+    },
+    "rto": {
+      "code": "10",
+      "district": 10,
+      "description": "Nashik"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:59:32.112Z"
+  },
+  {
+    "id": "e9f1ab0e-9387-43a0-aaf8-a70bc921293e",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "KH100V3465",
+    "detectedPlate": "KH10OV3465",
+    "isValid": true,
+    "confidence": 0,
+    "state": {
+      "code": "KH",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "10",
+      "district": 10,
+      "description": "District 10"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:51:18.617Z"
+  },
+  {
+    "id": "25e3b757-176e-483c-94be-8deb3ca00237",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "\" PL 11 C 9876",
+    "detectedPlate": "PL11C9876",
+    "isValid": true,
+    "confidence": 65,
+    "state": {
+      "code": "PL",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "11",
+      "district": 11,
+      "description": "District 11"
+    },
+    "plateColor": "Yellow",
+    "plateType": "Yellow Plate",
+    "fuelType": "Diesel",
+    "vehicleCategory": "Commercial Vehicle",
+    "bodyTypes": [
+      "Bus",
+      "Truck",
+      "Taxi",
+      "Auto Rickshaw"
+    ],
+    "timestamp": "2026-07-15T20:50:58.734Z"
+  },
+  {
+    "id": "6bc853c8-24e8-4b3f-aaf7-e6a25f3b3f03",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "“PL 11 C 9876",
+    "detectedPlate": "PL11C9876",
+    "isValid": true,
+    "confidence": 72,
+    "state": {
+      "code": "PL",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "11",
+      "district": 11,
+      "description": "District 11"
+    },
+    "plateColor": "Yellow",
+    "plateType": "Yellow Plate",
+    "fuelType": "Diesel",
+    "vehicleCategory": "Commercial Vehicle",
+    "bodyTypes": [
+      "Bus",
+      "Truck",
+      "Taxi",
+      "Auto Rickshaw"
+    ],
+    "timestamp": "2026-07-15T20:42:16.463Z"
+  },
+  {
+    "id": "93796b04-bcc7-45c5-aefe-be1a41099466",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "Sn —\n\n~HR 26 D0 12347 DL 17 C 9876\n:\n\nMH 02EV 2024) [77 coor",
+    "detectedPlate": "MH02EV2024",
+    "isValid": true,
+    "confidence": 54,
+    "state": {
+      "code": "MH",
+      "name": "Maharashtra",
+      "found": true
+    },
+    "rto": {
+      "code": "02",
+      "district": 2,
+      "description": "Mumbai (West)"
+    },
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Electric Vehicle"
+    ],
+    "timestamp": "2026-07-15T20:41:27.658Z"
+  },
+  {
+    "id": "29723c0b-70e7-4b16-bdf9-2f5780df01f3",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "°RJ14CY0002",
+    "detectedPlate": "RJ14CY0002",
+    "isValid": true,
+    "confidence": 6,
+    "state": {
+      "code": "RJ",
+      "name": "Rajasthan",
+      "found": true
+    },
+    "rto": {
+      "code": "14",
+      "district": 14,
+      "description": "Jaipur"
+    },
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Car",
+      "Bike",
+      "Scooter"
+    ],
+    "timestamp": "2026-07-15T20:40:34.837Z"
+  },
+  {
+    "id": "eb21f918-747d-4664-8325-80ea91556a45",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "ENS VA CN SSS ON hy\nSoa Nee IN 2 4 0 1\nAER Je i / is 0 7 . FN Td EE\nCAE SER [he\n\n= HEAVEN 8 Ne A ANS a NG BY SRE GED SRE SR pi a -\nWNT 4\nfl ut) NT ’ ) 4 Vy.\n= — NS nN / = 4 ~ r= SE —— — = — : =\na gf RAY 35 SAE A i ——e —\n\\ 7 Cavey ’ a =\n_—— I> py /\nie _ pit SOR SS ee ee mm\na — Re — = cg 2\nT PTOTHEN ¥ = a\n— : ViIiNAMAU IAD mia —\n| yo > = == ded A\n/ yp — — — = Ea\n[ TT = =\n8) % ~ :\n1) 3\nNE —— a @.\n=\nHE > sally",
+    "detectedPlate": "AN68Y0005",
+    "isValid": true,
+    "confidence": 33,
+    "state": {
+      "code": "AN",
+      "name": "Andaman and Nicobar Islands",
+      "found": true
+    },
+    "rto": {
+      "code": "68",
+      "district": 68,
+      "description": "District 68"
+    },
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:40:02.091Z"
+  },
+  {
+    "id": "d2acc4b7-35e2-4946-9c9c-7d581b8d29fe",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HI0DV3485.",
+    "detectedPlate": "HI00DV3485",
+    "isValid": true,
+    "confidence": 10,
+    "state": {
+      "code": "HI",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:38:54.102Z"
+  },
+  {
+    "id": "a9725619-cdc6-4a17-84d5-687d9d1ac3c7",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "123",
+    "detectedPlate": null,
+    "isValid": false,
+    "confidence": 76,
+    "state": null,
+    "rto": null,
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:38:42.058Z"
+  },
+  {
+    "id": "44056446-772f-472e-bdf1-634a0681e243",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "ENS VA CN SSS ON hy\nSoa Nee IN 2 4 0 1\nAER Je i / is 0 7 . FN Td EE\nCAE SER [he\n\n= HEAVEN 8 Ne A ANS a NG BY SRE GED SRE SR pi a -\nWNT 4\nfl ut) NT ’ ) 4 Vy.\n= — NS nN / = 4 ~ r= SE —— — = — : =\na gf RAY 35 SAE A i ——e —\n\\ 7 Cavey ’ a =\n_—— I> py /\nie _ pit SOR SS ee ee mm\na — Re — = cg 2\nT PTOTHEN ¥ = a\n— : ViIiNAMAU IAD mia —\n| yo > = == ded A\n/ yp — — — = Ea\n[ TT = =\n8) % ~ :\n1) 3\nNE —— a @.\n=\nHE > sally",
+    "detectedPlate": "AN68Y0005",
+    "isValid": true,
+    "confidence": 33,
+    "state": {
+      "code": "AN",
+      "name": "Andaman and Nicobar Islands",
+      "found": true
+    },
+    "rto": {
+      "code": "68",
+      "district": 68,
+      "description": "District 68"
+    },
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:33:58.445Z"
+  },
+  {
+    "id": "ed02c157-72da-466b-862e-38634e403e97",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "- NBCEOMTIOWRS ~— EUmE—aE——— eS\nIs NC - - x \\\nJ sr US SSE CE <) : Q\n; CER gd Salil SA SS ISOS 1A J\nPITY: Salo pti NO Bi © NI Ng Vo i\n5 1S RS 1S R, [ISNA 5\n) ; fa. | EE DE SS IS SRR. NO 3 {|\n3 ; 1 Ea = | 3 So ly 4 No 3 ¥ NE\n3 p BE SIE NSN BEN B) HN ow !\n] 0) 1056 \\\\NS B SSE ER J\nLI : © fo oO » NF, 4 JAN\ny. ! SA a pe\n\" : i 3 3 FESR: D FS > S ar J\n5 ed” § © OR IN\nNN — AE JS {i 0, \\3 > ;\nPK WK R 9 OF Es:\nN S One IEA § !\n- Ad . o% NG, AN) ) 1\namt > S 1 . i]\nS&S SN > VR 20 1\ny NN © ) LN yr\nR Or) |\nan d it Ny ; Se i x Wa k\nRIA S80 a RPT 4\nmae -\na\"",
+    "detectedPlate": "RJ01IF0000",
+    "isValid": true,
+    "confidence": 32,
+    "state": {
+      "code": "RJ",
+      "name": "Rajasthan",
+      "found": true
+    },
+    "rto": {
+      "code": "01",
+      "district": 1,
+      "description": "Ajmer"
+    },
+    "plateColor": "Green",
+    "plateType": "Green Plate",
+    "fuelType": "Electric",
+    "vehicleCategory": "Electric Vehicle (EV)",
+    "bodyTypes": [
+      "Car",
+      "Bus",
+      "Auto Rickshaw"
+    ],
+    "timestamp": "2026-07-15T20:33:23.036Z"
+  },
+  {
+    "id": "4fb8a4ad-1d81-4f0a-865e-ec06c7827c03",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": ". Ts | 3 \"4, V\npe - VERITO\nSy —— a\n\n— MH 04UN8765]\n. oc — ~~ “oy\na. ( i»)",
+    "detectedPlate": "MH04UN8765",
+    "isValid": true,
+    "confidence": 30,
+    "state": {
+      "code": "MH",
+      "name": "Maharashtra",
+      "found": true
+    },
+    "rto": {
+      "code": "04",
+      "district": 4,
+      "description": "Thane"
+    },
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Car",
+      "Bike",
+      "Scooter"
+    ],
+    "timestamp": "2026-07-15T20:32:43.485Z"
+  },
+  {
+    "id": "77ed183f-f4c1-4b1c-bdbe-466db7bc2c21",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "123",
+    "detectedPlate": null,
+    "isValid": false,
+    "confidence": 76,
+    "state": null,
+    "rto": null,
+    "plateColor": "Black",
+    "plateType": "Black Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Private Hire / Rental",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:32:30.892Z"
+  },
+  {
+    "id": "0d93cf4c-4d72-4ac8-9f87-79e2510f04b2",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HI0DV3485.",
+    "detectedPlate": "HI00DV3485",
+    "isValid": true,
+    "confidence": 10,
+    "state": {
+      "code": "HI",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:32:11.515Z"
+  },
+  {
+    "id": "e5ac3992-8671-4d89-9496-b5271af9e9a4",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HHI0DV3485",
+    "detectedPlate": "HI00DV3485",
+    "isValid": true,
+    "confidence": 4,
+    "state": {
+      "code": "HI",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:28:27.915Z"
+  },
+  {
+    "id": "0a23e627-209c-4fa6-801d-d92c87aa5970",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "123",
+    "detectedPlate": null,
+    "isValid": false,
+    "confidence": 76,
+    "state": null,
+    "rto": null,
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Car",
+      "Bike",
+      "Scooter"
+    ],
+    "timestamp": "2026-07-15T20:28:16.185Z"
+  },
+  {
+    "id": "be41764f-beb3-4c0b-826d-aa332654b1b2",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "HHI0DV3485",
+    "detectedPlate": "HI00DV3485",
+    "isValid": true,
+    "confidence": 4,
+    "state": {
+      "code": "HI",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "Blue",
+    "plateType": "Blue Plate",
+    "fuelType": "Petrol / Diesel",
+    "vehicleCategory": "Diplomatic Vehicle",
+    "bodyTypes": [
+      "Car",
+      "SUV"
+    ],
+    "timestamp": "2026-07-15T20:23:56.446Z"
+  },
+  {
+    "id": "54a37ac8-51a6-4c1d-962c-e79615709d73",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "ABOO AB\n1234",
+    "detectedPlate": "AB00AB1234",
+    "isValid": true,
+    "confidence": 48,
+    "state": {
+      "code": "AB",
+      "name": "Unknown State",
+      "found": false
+    },
+    "rto": {
+      "code": "00",
+      "district": 0,
+      "description": "District 0"
+    },
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Car",
+      "Bike",
+      "Scooter"
+    ],
+    "timestamp": "2026-07-15T20:23:06.516Z"
+  },
+  {
+    "id": "d36684ed-351a-4d61-bf63-c70c1ded9307",
+    "userId": "1e28df07-f52b-43f3-80d7-5153c3fef87d",
+    "rawText": "123",
+    "detectedPlate": null,
+    "isValid": false,
+    "confidence": 76,
+    "state": null,
+    "rto": null,
+    "plateColor": "White",
+    "plateType": "White Plate",
+    "fuelType": "Petrol / CNG",
+    "vehicleCategory": "Private Vehicle",
+    "bodyTypes": [
+      "Car",
+      "Bike",
+      "Scooter"
+    ],
+    "timestamp": "2026-07-15T20:22:54.649Z"
+  }
+]
