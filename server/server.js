@@ -11,12 +11,10 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 
 app.use(cors({
-  origin: [
-    'http://localhost:3000',
-    'https://vercel.com/mr0crappys-projects/number-plate-detection/HZUa2kKT7zEdHNMzPn5w31BDSVSD'
-  ],
+  origin: process.env.CLIENT_URL,
   credentials: true,
-}));app.use(express.json());
+}));
+app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use('/api/auth', authRoutes);
