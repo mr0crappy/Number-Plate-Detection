@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 8000;
 app.use(cors({
   origin: [
     'http://localhost:3000',
-    'https://your-project.vercel.app'
+    'https://vercel.com/mr0crappys-projects/number-plate-detection/HZUa2kKT7zEdHNMzPn5w31BDSVSD'
   ],
   credentials: true,
 }));app.use(express.json());
