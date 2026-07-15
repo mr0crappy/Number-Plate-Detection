@@ -680,11 +680,19 @@ exports.analyzeImage = async (req, res) => {
     const fullTargets = [imagePath, ...fullVariants];
     const cropTargets = cropPaths.flatMap((p, idx) => [p, ...cropVariantSets[idx]]);
 
-    const [fullResults, cropResults, plateColor] = await Promise.all([
-      Promise.all(fullTargets.map(t => runOCR(t, FULL_IMAGE_PSM_MODES))),
-      Promise.all(cropTargets.map(t => runOCR(t, CROP_PSM_MODES))),
-      detectPlateColor(imagePath),
-    ]);
+    const fullResults = [];
+
+for (const target of fullTargets) {
+    fullResults.push(await runOCR(target, FULL_IMAGE_PSM_MODES));
+}
+
+const cropResults = [];
+
+for (const target of cropTargets) {
+    cropResults.push(await runOCR(target, CROP_PSM_MODES));
+}
+
+const plateColor = await detectPlateColor(imagePath);
 
     // Step 3: Pick a plate using format score first, then CONSENSUS across
     // passes as the tie-breaker — not Tesseract's own confidence score.
